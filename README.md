@@ -1,16 +1,17 @@
-# InstaPy-Docker 🐳
+# Instagram-Bot 🐳 🚀
 
 #### Table of contents
 - [Presentation](#presentation)
 - [InstaPy documentation](#instapy-documentation)
 - [Guides and documenation](#guides-and-documentation)
-  - [Running InstaPy with docker](https://github.com/InstaPy/instapy-docker/blob/master/documentation/docker.md)
-  - [Running InstaPy with docker-compose](https://github.com/InstaPy/instapy-docker/blob/master/documentation/docker-compose.md)
 
 ---
 
 ## Presentation
-This is the docker version of [InstaPy](https://github.com/timgrossmann/InstaPy) which is declined in two categories:
+Do you want to build a network on Instagram? then you need to know how to build an Instagram Bot?
+This will teach you how to automate Instagram activities with the help of an Instagram bot.
+
+There are two ways to run the [InstaPy](https://github.com/timgrossmann/InstaPy):
   - virtualenv
   - docker-compose
 
@@ -28,7 +29,7 @@ Some helpful links:
   - [InstaPy Quickstart repository](https://github.com/InstaPy/instapy-quickstart)
 
 ## Guides and documentation
-  - [Running InstaPy with docker-compose](https://github.com/jayavardhan3112/instagram-bot/documentation/docker-compose.md)
-  - [Running InstaPy with virtualenv](https://github.com/jayavardhan3112/instagram-bot/documentation/virtualenv-docs.md)
+  - [Running InstaPy with docker-compose](https://github.com/jayavardhan3112/instagram-bot/blob/master/documentation/docker-compose.md)
+  - [Running InstaPy with virtualenv](https://github.com/jayavardhan3112/instagram-bot/blob/master/documentation/virtualenv-docs.md)
 
 
